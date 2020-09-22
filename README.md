@@ -2,7 +2,6 @@
 
 Parliament is a process to easily enable products to host their developer focused documentation.
 
-Test
 
 ![owls](images/owls.jpg)
 📷 Photo credit: [National Parks Service](https://www.nps.gov/index.htm)
